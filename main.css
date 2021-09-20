@@ -45,7 +45,7 @@ body > * {
 
 .person {
     display: block;
-    max-width: 100%;
+    width: 100%;
     border-radius: .25rem;
 }
 
@@ -167,7 +167,7 @@ footer {
     .container {
         grid-row: 1 / -1;
         grid-column: 2 / 4;
-        padding: min(12%, 5.275em);
+        padding: min(12%, 5.275rem);
     }
     
     @keyframes text {
